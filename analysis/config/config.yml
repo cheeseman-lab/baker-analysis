@@ -152,6 +152,8 @@ cluster:
     Interphase: 5
     all: 5
   leiden_resolutions:
+  - 2
+  - 3
   - 4
   - 5
   - 6
